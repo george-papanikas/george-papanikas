@@ -1,6 +1,5 @@
 ## Technical Skills
-• Java/Spring/Spring Boot • JPA/Hibernate • HTML, CSS, JavaScript/Node.js • MS SQL, MySQL, MongoDB • Git/GitHub 
-• Selenium, Postman, JUnit, Swagger, Apache • IntelliJ, Visual Studio Code • Maven/Gradle • SOA/MVC/DAO/DTO • REST API
+• Java/Spring/Spring Boot • JPA/Hibernate • HTML, CSS, JavaScript/Node.js • MS SQL, MySQL, MongoDB • Git/GitHub • Selenium, Postman, JUnit, Swagger, Apache • IntelliJ, Visual Studio Code • Maven/Gradle • SOA/MVC/DAO/DTO • REST API
 
 <!--
 **george-papanikas/george-papanikas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
