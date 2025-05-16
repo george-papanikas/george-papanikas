@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm George Papanikas
-👨‍💻 Junior Java Developer with a business background - building backend systems with Java and Spring while keeping a keen eye on the frontend with JavaScript and React.
+👨‍💻 Junior Java Developer with a business background - building backend systems with Java, Spring and MySQL while keeping a keen eye on the frontend with JavaScript and React.
 
-💡I enjoy writing clean, efficient code that meets real-world business needs.
+💡I enjoy writing clean, efficient, and well-documented code that meets real-world business needs.
 
 ## 🛠 Tech Stack
 
